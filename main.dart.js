@@ -51160,7 +51160,7 @@ N:function(a,b){var s=null,r="title",q="subtitle",p=b.T(t.w).f.a.a*0.4
 return V.x4(new T.dk(C.hl,T.hh(H.a([new F.m6(C.ef,r,q,s),T.b9(Z.a68(),s,p),new F.m6(C.ef,r,q,s),T.b9(Z.a68(),s,p),new F.m6(C.ef,r,q,s)],t.E),C.G,C.aj,C.bI),s),s,s)}}
 K.Cr.prototype={
 N:function(a,b){var s=null,r=t.w,q=b.T(r).f.a.a,p=b.T(r).f.a.b
-return V.x4(q>=355?new K.Cl(p,q,s):new K.Cm(p,q,s),s,s)}}
+return V.x4(q>=400?new K.Cl(p,q,s):new K.Cm(p,q,s),s,s)}}
 K.Cl.prototype={
 N:function(a,b){var s=null,r=t.E,q=this.c,p=q*0.01,o=this.d,n=o*0.001
 return new T.dk(C.ap,T.dD(H.a([M.hi(s,T.hh(H.a([T.dD(H.a([L.cQ(C.hx,40),L.cL("24\xb0C",K.aB(b).W.c)],r),C.G,C.ar,C.P),T.b9(s,p,s),T.dD(H.a([L.cQ(C.hv,30),T.b9(s,s,o*0.01),L.cL("Mostly Cloudy",K.aB(b).W.e)],r),C.G,C.cl,C.P)],r),C.G,C.ar,C.P),s,s,s,s,s,s),M.hi(s,T.hh(H.a([T.dD(H.a([L.cQ(C.ht,30),T.b9(s,s,n),L.cL("Max.: 27\xb0C",K.aB(b).W.f),T.b9(s,s,o*0.005),L.cQ(C.hs,32),T.b9(s,s,n),L.cL("Min.: 18\xb0C",K.aB(b).W.f)],r),C.G,C.aj,C.P),T.b9(s,q*0.03,s),T.dD(H.a([L.cQ(C.hw,s),T.b9(s,s,n),L.cL("Sunrise: 05:30",s)],r),C.G,C.ar,C.P),T.b9(s,p,s),T.dD(H.a([L.cQ(C.hu,s),T.b9(s,s,n),L.cL("Sunset: 20:00",s)],r),C.G,C.ar,C.P)],r),C.G,C.ar,C.P),s,s,s,s,s,s)],r),C.G,C.cl,C.P),s)}}
